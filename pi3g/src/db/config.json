@@ -1,0 +1,16 @@
+{
+    "USD": {
+        "currency": "USD",
+        "latestRate": 1.096552,
+        "internalRate": 1.094,
+        "upperLimit": 0.1,
+        "lowerLimit": 0.1
+    },
+    "GBP": {
+        "currency": "GBP",
+        "latestRate": 0.859674,
+        "internalRate": 0.859256,
+        "upperLimit": 0.3,
+        "lowerLimit": 0.2
+    }
+}
